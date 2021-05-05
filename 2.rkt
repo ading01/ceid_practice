@@ -26,7 +26,7 @@
 ;                via the submit system on the Zoo
 ; ********************************************************
 ; Name: Allan Ding 
-; Email address: allanzding@gmail.com
+; Email address: allan.ding@yale.edu
 ; ********************************************************
 
 ; This file may be opened in DrRacket.  Lines beginning with
