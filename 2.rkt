@@ -25,8 +25,8 @@
 ; CS 201 HW #1  DUE Wednesday 2/24/2021, 11:59 pm
 ;                via the submit system on the Zoo
 ; ********************************************************
-; Name: Allan Ding test change name
-; Email address: allan.ding@yale.edu
+; Name: Allan Ding 
+; Email address: allanzding@gmail.com
 ; ********************************************************
 
 ; This file may be opened in DrRacket.  Lines beginning with
